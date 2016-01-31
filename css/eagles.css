@@ -1,0 +1,28 @@
+.clear-well {
+  min-height: 20px;
+  padding: 19px;
+  margin-bottom: 20px;
+  border-radius: 4px;
+}
+.clear-well-sm {
+  padding: 9px;
+  border-radius: 3px;
+}
+.boxed{
+  min-height: 20px;
+  padding: 19px;
+  padding-left: 135px;
+  margin-bottom: 20px;
+  border-radius: 4px;
+}
+#box1, #box2, #box3, #box1-2, #box2-2, #box3-2 {
+  overflow:hidden;
+}
+h3 {
+    font: 18px/24px;
+    margin-top: 34px;
+    text-transform: uppercase;
+}
+p {
+    margin-top: 18px;
+}
