@@ -1,6 +1,7 @@
 # Stuttgart Eagles
 Created by PapaGrizzle Designs with 
             @kyle390 & @nmoutdoors 
+            [Stuttgart Eagles Site](http://kyle390.github.io/stuttgarteagles/)
             
 # Short Term ToDo List
 - [x] Upload basic file structure
