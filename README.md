@@ -1,5 +1,5 @@
 # Stuttgart Eagles
-Created by PapaGrizzle Designs with 
+Created by PapaGrizzle Designz with 
             @kyle390 & @nmoutdoors 
             [Stuttgart Eagles Site](http://kyle390.github.io/stuttgarteagles/)
             
